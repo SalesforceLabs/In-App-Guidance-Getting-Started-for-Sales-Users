@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>In-App Guidance Walkthroughs%3A Getting Started for Sales Users</fullName>
+    <apiAccessLevel>Unrestricted</apiAccessLevel>
+    <namespacePrefix>prompts072020</namespacePrefix>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>LightingExperienceGetYourBearings</members>
+        <members>LightningExperienceNavigateAround</members>
+        <members>LightningExperienceWorkwithData</members>
+        <members>LightningExperienceWorkwithListViews</members>
+        <name>Prompt</name>
+    </types>
+    <version>49.0</version>
+</Package>
